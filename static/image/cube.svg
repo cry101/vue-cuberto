@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 438 438" style="enable-background:new 0 0 438 438;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{opacity:0.65;fill:url(#SVGID_1_);}
+</style>
+<pattern  x="556" y="71" width="8" height="8" patternUnits="userSpaceOnUse" id="New_Pattern" viewBox="0 -8 8 8" style="overflow:visible;">
+	<g>
+		<rect y="-8" class="st0" width="8" height="8"/>
+		<line class="st1" x1="2" y1="-2" x2="6" y2="-6"/>
+	</g>
+</pattern>
+<pattern  id="SVGID_1_" xlink:href="#New_Pattern" patternTransform="matrix(1 0 0 1 -5.0003 -1.259842e-04)">
+</pattern>
+<path class="st2" d="M0,0v438h438V0H0z M343,350H79V87h264V350z"/>
+</svg>
